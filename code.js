@@ -108,8 +108,8 @@ const STYLE = {
     // UI logic
     map.on('load', function(e){
 
-        // don't fly to user location on load
-        // geolocate.trigger();
+        // fly to user location on load
+        geolocate.trigger();
 
         $.ajaxSetup({
             scriptCharset: "utf-8",
