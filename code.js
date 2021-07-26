@@ -201,7 +201,7 @@ const STYLE = {
                 type: "line",
                 paint: {
                     "line-color": "#2080ff",
-                    "line-width": 3,
+                    "line-width": 5,
                     "line-gap-width": 1
                 },
                 layout: {
