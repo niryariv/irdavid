@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "עיר דוד 1",
+                "youtube": "https://www.youtube.com/watch?v=yU0FIxfJqXM",
+                "image": "./data/img/irdavid_1.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.228135, 31.761020
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "עיר דוד 2",
+                "youtube": " https://www.youtube.com/watch?v=0BJkq9n2n38",
+                "image": "./data/img/irdavid_2.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.228242,
+                    31.760425
+                ]
+            }
+        }
+    ]
+}
